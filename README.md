@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MINI SHARMA</h1>
-<h3 align="center">Am a Data Scintist from India.</h3>
+<h3 align="center">Am a Certified  Data Scientist from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minonza&label=Profile%20views&color=0e75b6&style=flat" alt="minonza" /> </p>
 
